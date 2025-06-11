@@ -141,8 +141,8 @@ This project is open-source and available under the MIT License.
 👨‍💻 Author
 Kanumareddy Tarun
 📫 Email: kanumareddytarun@gmail.com
-🔗 LinkedIn: linkedin.com/in/kanumareddytarun
-💻 GitHub: github.com/kanumareddytarun
+🔗 LinkedIn: linkedin.com/in/kanumareddytarun(https://www.linkedin.com/in/kanumareddytarun/)
+💻 GitHub: github.com/kanumareddytarun(https://github.com/kanumareddytarun)
 
 
 
