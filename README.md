@@ -2,7 +2,7 @@
 
 This is a **responsive**, **interactive**, and **theme-switchable** personal portfolio website created by **Kanumareddy Tarun**, a Java Full Stack Developer. It showcases my **skills**, **projects**, **education**, **experience**, and includes a **contact form** – all built using modern web technologies with a clean and professional design inspired by popular portfolio layouts.
 
-🔗 **Live Demo:** [https://your-deployed-portfolio-link.com](https://your-deployed-portfolio-link.com)  
+🔗 **Live Demo:** [https://your-deployed-portfolio-link.com](https://kanumareddytarunportfolio.netlify.app/)  
 📧 **Contact:** [kanumareddytarun@gmail.com](mailto:kanumareddytarun@gmail.com)
 
 
